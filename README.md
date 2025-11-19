@@ -22,14 +22,19 @@ También creaste tu primer **README**, el corazón del repositorio.
 ---
 
 ### 🗃️ 3. Organizar archivos en carpetas  
-Creamos una estructura clara y profesional:
+Creamos una estructura:
 
 mi-primer-repositorio/
+
 │
+
 ├── datos_ventas/
+
 │ └── ventas.csv
-│
+
+|
 └── datos_clientes/
+
 └── clientes.csv
 
 
